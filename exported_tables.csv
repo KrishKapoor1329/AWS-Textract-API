@@ -1,4 +1,0 @@
-Description ,Quantity ,Rate ,Per ,Amount (AED) ,Discount ,Taxable Value (AED) ,VAT Rate ,VAT Amount (AED) 
-Monitors ,10 nos ,"5,000 ",nos ,"50,000 ",,"50,000 ",5% ,"2,500 "
-VAT ,,,,"2,500 ",,,,
-Total ,10 nos ,,,"52,500 ",,"50,000 ",,"2,500 "
